@@ -1,6 +1,6 @@
 name: Pylint
 
-# job 1: get rython files changed
+# job 1: get python files changed
 # job 2: run pylint on those files with a required minimum score of 7
 # needs requirements.txt with dependencies imported in the files tested
 
